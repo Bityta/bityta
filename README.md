@@ -58,12 +58,9 @@
 ---
 ## Интересные проекты:
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  <a href="https://github.com/Bityta/library">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bityta&repo=library" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
+ 
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
