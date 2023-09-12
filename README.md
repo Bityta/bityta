@@ -41,7 +41,7 @@
 - Hibernate
 - PostgreSQL
 - MySQL
-- 
+
 Другое:
   
 - Thymeleaf
