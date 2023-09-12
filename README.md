@@ -29,19 +29,20 @@
 - Java Core
 - Java EE
   
- Spring
+ Spring:
   
 - Spring Core
 - Spring MVC
-- 
-  Работа с БД
+- Spring Boot
+   
+  Работа с БД:
   
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
 - MySQL
 - 
-  Другое
+  Другое:
   
 - Thymeleaf
 - HTMl и CSS
