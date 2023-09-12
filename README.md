@@ -28,22 +28,23 @@
 
 - Java Core
 - Java EE
-- Spring
+ Spring
   ---
 - Spring Core
 - Spring MVC
-- Работа с БД
+  Работа с БД
   ---
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
 - MySQL
-- Другое
+  Другое
   ---
-- thymeleaf
+- Thymeleaf
 - HTMl и CSS
 - Git
--   Так же дополнительные языки :
+
+  Так же дополнительные языки :
 
   ---
 - Python
