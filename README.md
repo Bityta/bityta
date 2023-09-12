@@ -35,20 +35,20 @@
 - Spring MVC
 - Spring Boot
    
-  Работа с БД:
+Работа с БД:
   
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
 - MySQL
 - 
-  Другое:
+Другое:
   
 - Thymeleaf
 - HTMl и CSS
 - Git
 
-  Так же дополнительные языки :
+Так же дополнительные языки :
 
 - Python
 - C++ (на назовом уровне)
