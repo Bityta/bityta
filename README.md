@@ -1,4 +1,4 @@
-## Привет, Я Александр, backend developer 🚀.
+## Привет, Я Александр, Java backend developer 🚀.
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bityta)
