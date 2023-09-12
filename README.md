@@ -31,17 +31,17 @@
 - Spring Core
 - Spring MVC
 - Spring Boot
-  
+  ---
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
 - MySQL
-  
+  ---
 - thymeleaf
 - HTMl и CSS
-  
+  ---
 - Git
-
+ ---
   Так же дополнительные языки :
   
 - Python
