@@ -50,15 +50,25 @@
 
 - Python
 - C++ (на базовом уровне)
-  
 
 
 ---
 ## Интересные проекты:
+
+<p align="center">
+  <a href="https://github.com/Bityta/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bityta&repo=CurrencyExchange" />
+  </a>
+ 
+</p>
+
+
+
 <p align="center">
   <a href="https://github.com/Bityta/library">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bityta&repo=library" />
   </a>
  
 </p>
+
 
