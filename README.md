@@ -38,10 +38,12 @@
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
+- Liquibase
 - MySQL
+  
 
 Другое:
-  
+- Docker
 - Thymeleaf
 - HTMl и CSS
 - Git
