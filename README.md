@@ -59,17 +59,8 @@
 ## Интересные проекты:
 
 <p align="center">
-  <a href="https://github.com/Bityta/CurrencyExchange">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bityta&repo=CurrencyExchange" />
-  </a>
- 
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/Bityta/library">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bityta&repo=library" />
+  <a href="https://github.com/Bityta/Wallet-Service">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bityta&repo=Wallet-Service" />
   </a>
  
 </p>
