@@ -47,6 +47,7 @@
 - Thymeleaf
 - HTMl и CSS
 - Git
+- liquibase
 
 Так же дополнительные языки :
 
