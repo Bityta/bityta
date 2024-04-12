@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 📫 19 years old;
+- 📫 20 years old;
 - ⚡️ I'm a second-year student at MAI, majoring in Applied Informatics.
 - 🌱 Currently diving deep into web development and honing my skills.
 
