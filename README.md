@@ -10,8 +10,8 @@
 
 ## About Me
 
-- 📫 20 years old
-- 🖥️ Currently working at Yandex Telemost
+- 📫 21 years old
+- 🖥️ Currently working at Yandex Market
 - ⚡️ I'm a second-year student at MAI, majoring in Applied Informatics.
 - 🌱 Currently diving deep into web development and honing my skills.
 
@@ -22,14 +22,22 @@
 - **Programming Languages:**
     - Java
     - Python
+    - Kotlin
+    - GO
+    - Lua
 
 - **Frameworks:**
     - Spring Framework
-    - Hibernate
+    - FastApi
+    - Django
+    
 
 - **Databases:**
     - PostgreSQL
     - MySQL
+    - S3
+    - redis
+    - ydb
 
 - **Version Control:**
     - Git
@@ -39,6 +47,7 @@
 
 - **Messaging:**
     - RabbitMQ
+    - kafka
 
 - **Testing:**
     - JUnit
@@ -49,6 +58,8 @@
     - HTTP/HTTPS
     - TCP/IP
     - WebSocket
+    - Grpc
+    - GraphQl
 
 - **Telephony:**
     - VoIP
@@ -58,8 +69,8 @@
 - **Other Skills:**
     - RESTful APIs
     - Microservices Architecture
-    - SQL and NoSQL Databases
     - Linux System Administration
+  
 
 ## Get In Touch
 
