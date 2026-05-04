@@ -10,7 +10,7 @@
 
 ## About Me
 
-- 📫 21 years old
+- 📫 22 years old
 - 🖥️ Currently working at Yandex Market
 - ⚡️ I'm a second-year student at MAI, majoring in Applied Informatics.
 - 🌱 Currently diving deep into web development and honing my skills.
